@@ -1,0 +1,7 @@
+.databricks/
+.DS_Store
+.vscode/**
+typings/**
+src/__pycache__/
+scripts/
+.gitattributes
